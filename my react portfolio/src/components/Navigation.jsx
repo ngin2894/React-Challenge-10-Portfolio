@@ -1,7 +1,7 @@
 function Navbar() {
     return (
     <nav className="navbar">
-        <a href="/">Welcome</a>
+        <a href="/">Navigation</a>
     </nav>
     );
 }

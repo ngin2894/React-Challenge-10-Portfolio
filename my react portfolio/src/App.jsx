@@ -1,16 +1,17 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+// import ProjectImage from './assets/projectImage.png'
 import './App.css'
 import Navigation from './components/Navigation'
+import Header from './components/Header'
+import Project from './components/Project'
 
 function App() {
 
   return (
       <div>
-        {/* <Header/> */}
         <Navigation/>
-        {/* <Project/> */}
+        <Header/>
+        <Project/>
         {/* <Footer/> */}
       </div>
   )
