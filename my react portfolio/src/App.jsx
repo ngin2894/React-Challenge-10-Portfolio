@@ -8,7 +8,6 @@ import AboutMe from './components/AboutMe';
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
 import Resume from './components/Resume';
-import Project from './components/Project';
 import Footer from './components/footer';
 
 function App() {
