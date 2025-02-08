@@ -87,6 +87,13 @@ img {
   border-radius: 50%;
 }
 
+.portfolio-image {
+  width: 20%;
+  height: auto;
+  border-radius: 10px;
+  border: 2px solid #ff4500;
+}
+
 button {
   background-color: #ff4500;
   color: #fff;
