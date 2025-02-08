@@ -5,7 +5,7 @@ My React Portfolio
 
 ## Description
 This is a personal portfolio website built using React and deployed on Netlify. The portfolio showcases projects, skills, and contact information.
-![Alt text](image.png)
+![alt text](<Screenshot 2025-02-08 130306.png>)
 
 ## Table of Contents
 - [Installation](#installation)
