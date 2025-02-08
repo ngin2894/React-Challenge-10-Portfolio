@@ -15,12 +15,14 @@ function Contact() {
   return (
     <section>
       <h2>Contact Me</h2>
-      <form onSubmit={handleSubmit}>
-        <input type="text" placeholder="Name" onChange={(e) => setFormData({ ...formData, name: e.target.value })} />
-        <input type="email" placeholder="Email" onChange={(e) => setFormData({ ...formData, email: e.target.value })} />
-        <textarea placeholder="Message" onChange={(e) => setFormData({ ...formData, message: e.target.value })}></textarea>
+      <p>Have questions or want to work together? Send me a message at nataliegindraux@gmail.com.</p>
+      {/* Added the below for future enhancement to submit the form data to a server. Feature won't be included as part of MVP */}
+      {/* <form onSubmit={handleSubmit}>
+        <p><input type="text" placeholder="Name" onChange={(e) => setFormData({ ...formData, name: e.target.value })} /></p>
+        <p><input type="email" placeholder="Email" onChange={(e) => setFormData({ ...formData, email: e.target.value })} /></p>
+        <p><textarea placeholder="Message" onChange={(e) => setFormData({ ...formData, message: e.target.value })}></textarea></p>
         <button type="submit">Send</button>
-      </form>
+      </form> */}
     </section>
   );
 }
