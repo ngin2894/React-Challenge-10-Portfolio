@@ -2,7 +2,7 @@ function Resume() {
     return (
       <section>
         <h2>Resume</h2>
-        <a href="/src/assets/NatalieGindrauxResumeDec22us.pdf" download>Download Resume</a>
+        <a href="/assets/NatalieGindrauxResumeDec22us.pdf" download>Download Resume</a>
         <h3>Proficiencies</h3>
         <h4>Product Management</h4>
         <ul>

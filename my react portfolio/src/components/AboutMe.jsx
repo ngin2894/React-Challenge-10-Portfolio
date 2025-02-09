@@ -2,7 +2,7 @@ function AboutMe() {
     return (
       <section>
         <h2>About Me</h2>
-        <img src="public/assets/natimage.jpg" alt="Natalie Gindraux" />
+        <img src="assets/natimage.jpg" alt="Natalie Gindraux" />
         <p>Welcome to my portfolio!</p>
         <p> I’m a passionate and results-driven Senior Product Manager with over 6 years of experience leading cross-functional teams and delivering innovative, customer-centric solutions. My diverse background combines expertise in product management, full-stack web development, and operations.
 
